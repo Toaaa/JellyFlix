@@ -897,11 +897,11 @@ video:cue {
 }
 
 .itemSelectionPanel {
-	border: 1px solid #e50914;
+	border: 1px solid var(--accent);
 }
 
 .selectionCommandsPanel {
-	background: #e50914;
+	background: #202020;
 	color: #fff;
 }
 
