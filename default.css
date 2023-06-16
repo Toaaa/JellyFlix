@@ -896,6 +896,15 @@ video:cue {
   border-radius: var(--rounding) !important;
 }
 
+.itemSelectionPanel {
+	border: 1px solid #e50914;
+}
+
+.selectionCommandsPanel {
+	background: #e50914;
+	color: #fff;
+}
+
 .osdPoster img {
   border-radius: var(--rounding);
   border: none;
