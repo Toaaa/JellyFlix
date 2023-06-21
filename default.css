@@ -176,7 +176,7 @@ span.material-icons.checkboxIcon.checkboxIcon-checked.check {
 .fullSyncIndicator,
 .mediaSourceIndicator, 
 .playedIndicator {
-	background: var(--accent)
+	background: var(--accent) !important;
 }
 
 button.emby-tab-button.emby-button.emby-tab-button-active:hover {
