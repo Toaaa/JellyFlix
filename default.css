@@ -172,10 +172,7 @@ span.material-icons.checkboxIcon.checkboxIcon-checked.check {
   background: linear-gradient(-135deg, rgba(40, 40, 40) 50%, transparent 50%);
 }
 
-.countIndicator,
-.fullSyncIndicator,
-.mediaSourceIndicator, 
-.playedIndicator {
+.mediaSourceIndicator {
 	background: var(--accent) !important;
 }
 
